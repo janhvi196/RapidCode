@@ -1,0 +1,108 @@
+body {
+    font-family: 'Papyrus', fantasy;
+    margin: 0;
+    padding: 0;
+    background-color: #51242a;
+    color: #fff;
+}
+
+header {
+    font-family: 'Curlz MT', fantasy;
+    background-color: #111;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    line-height: 0.2;
+    
+}
+.title {
+    text-align: right;
+}
+
+header nav ul {
+    font-family: 'Papyrus', fantasy;
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.featured-playlists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.playlist {
+    border: 10px solid #111;
+    width: 300px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.playlist img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.featured-playlists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+playlist {
+    width: 300px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.playlist img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
